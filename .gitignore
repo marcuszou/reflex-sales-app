@@ -1,7 +1,8 @@
 *.db
 *.py[cod]
+.venv/
 .web
-.venv
 __pycache__/
 assets/external/
 reflex.db
+venv/
