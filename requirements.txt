@@ -1,2 +1,2 @@
-reflex>=0.4.6
+reflex==0.6.4
 openai>=1
